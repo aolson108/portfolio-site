@@ -1,0 +1,31 @@
+
+body{
+    background-color: rgb(243, 170, 245)
+}
+h1 {
+    background-color: rgb(96, 127, 222);
+    color: rgb(15, 3, 16);
+    border: solid 2px black;
+    text-align: center;
+    font: 2em helvetica; 
+}
+p {
+    background-color: rgb(243, 170, 245);
+    text-align: center;
+    font: 1em verdana;
+}
+main {
+    padding: 30px;
+    border-radius: 10px;
+    color: rgb(101, 7, 101);
+    text-align: left;
+    font: 1em Garamond;
+    border: dashed 1px rgb(237, 6, 6);
+}
+h2 {
+    color: rgb(101, 7, 101);
+    text-align: center;
+    font: 1.5em helvetica;
+}
+
+   
